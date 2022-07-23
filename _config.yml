@@ -22,8 +22,8 @@ avatar_image: /img/profile_picture.JPG
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/william-guesdon/" # Add your linkedln handle
+github: "https://github.com/wguesdon"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
